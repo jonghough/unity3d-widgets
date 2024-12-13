@@ -7,9 +7,18 @@ This is a collection of simple Unity UGUI widgets. They are mainly for reference
 This widget shows a monthly calendar. The current month can be changed by clicking the arrow buttons. Each date can be extended to be clickable. 
 
 ![Alt text](/gitimages/Screen%20Shot%202016-01-08%20at%2019.12.17.png?raw=true "Calendar View")
-![Alt text](/gitimages/calview2.png?raw=true "Calendar View")
+
+
 ![Alt text](/gitimages/calview3.png?raw=true "Calendar View")
 
+
+#### Change colors of each cell
+
+Modify the colors for the current month, next month, previous month, weekends.
+
+![Alt text](/gitimages/calview2.png?raw=true "Calendar View")
+
+  
 ### Analogue Clock
 
 This widget shows a round (analogue clock face). The widget has no user interaction, but shows the correct time.
